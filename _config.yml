@@ -297,4 +297,4 @@ plugins:
 ###########################
 
 # moves blog posts off home page
-paginate_path: "/blog/page:num/
+paginate_path: "/blog/page:num/"
